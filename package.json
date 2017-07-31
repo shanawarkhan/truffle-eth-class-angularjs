@@ -1,0 +1,21 @@
+{
+  "name": "AngularJS + solidity",
+  "version": "1.0.0",
+  "description": "This is a mesh from different repos",
+  "main": "/",
+  "directories": {
+    "test": "test"
+  },
+  "keywords": [
+    "ethereum",
+    "wallet",
+    "course",
+    "solidity",
+    "truffle"
+  ],
+  "author": "Thomas Wiesner",
+  "license": "MIT",
+  "devDependencies": {
+    "truffle-default-builder": "^2.0.0"
+  }
+}
