@@ -1,5 +1,5 @@
-# Final DApp
-This is the final DApp developed in the Etheruem Class.
+# Final DApp #1
+This is the final DApp #1 developed in the Etheruem Class.
 
 ## Scope
 The scope of the DApp is to show the usage of Truffle, 
